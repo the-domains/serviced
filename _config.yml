@@ -1,0 +1,14 @@
+layout_spectrum: 0.05115069565363228
+typography_spectrum: 0.2580926192458719
+color:
+  brandStrength: 0.3255330817773938
+  lightness: 0.3950460336636752
+  saturation: 0.5668202936649323
+  rhythmicContrast: 0.8415003365371376
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Serviced
